@@ -5,7 +5,7 @@
 The biomarker networks measured by different modalities of data (e.g., structural magnetic resonance imaging (sMRI), diffusion tensor imaging (DTI)) may share the same true underlying biological model. In this work, we propose a node-wise biomarker graphical model to leverage the shared mechanism between multi-modality data to provide a more reliable estimation of the target modality network and account for the heterogeneity in networks due to differences between subjects and networks of external modality. Latent variables are introduced to represent the shared unobserved biological network and the information from the external modality is incorporated to model the distribution of the underlying biological network. An approximation approach is used to calculate the posterior expectations of latent variables to reduce time.  
 
 - Title: **Integrative Network Learning for Multi-modaility Biomarker Data**
-<br/> manuscript: In press in Annals of Applied Statistics
+<br/> manuscript: Annals of Applied Statistics(2020) In press
   
 - Authors: **Shanghong Xie<sup>a</sup> (sx2168@cumc.columbia.edu), Donglin Zeng<sup>b</sup>, and Yuanjia Wang<sup>a</sup>**
 - Affiliations: 
