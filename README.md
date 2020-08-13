@@ -1,2 +1,2 @@
-# IntegrativeNetwork
+# Integrative Network
 
