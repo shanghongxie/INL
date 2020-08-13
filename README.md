@@ -7,15 +7,16 @@ he biomarker networks measured by different modalities of data (e.g., structural
 - Title: **Integrative Network Learning for Muli-modaility Biomarker Data**
 
 - Authors: **Shanghong Xie<sup>a</sup> (sx2168@cumc.columbia.edu), Donglin Zeng<sup>b</sup>, and Yuanjia Wang<sup>a</sup>**
-
-<p align="center">
-<img src="https://github.com/shanghongxie/Integrative-Network/blob/master/Diagram1-1.png" width="1000" height="500">
-</p>
-
-
 - Affiliations: 
   + 1. **Department of Biostatistics, Mailman School of Public Health, Columbia University, New York**
   + 2. **Department of Biostatistics, University of North Carolina, Chapel Hill, North Carolina**
+
+<p align="center">
+<img src="https://github.com/shanghongxie/Integrative-Network/blob/master/Diagram1-1.png" width="1000" height="600">
+</p>
+
+
+
 
 
 ## Setup Requirements
