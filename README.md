@@ -13,7 +13,7 @@ The biomarker networks measured by different modalities of data (e.g., structura
   + 2. **Department of Biostatistics, University of North Carolina, Chapel Hill, North Carolina**
 
 <p align="center">
-<img src="https://github.com/shanghongxie/Integrative-Network/blob/master/Diagram1-1.png" width="1000" height="500">
+<img src="https://github.com/shanghongxie/Integrative-Network/blob/master/Diagram1-1.png" width="900" height="500">
 </p>
 
 
