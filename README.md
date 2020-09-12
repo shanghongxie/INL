@@ -1,4 +1,4 @@
-# R code for "Integrative Network Learning for Multi-modaility Biomarker Data"
+# R package for "Integrative Network Learning for Multi-modaility Biomarker Data"
 
 <img src="https://img.shields.io/badge/Study%20Status-Results%20Available-yellow.svg" alt="Study Status: Results Available"> 
 
