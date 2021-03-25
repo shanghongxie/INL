@@ -11,7 +11,7 @@ The biomarker networks measured by different modalities of data (e.g., structura
   + 1. **Department of Biostatistics, Mailman School of Public Health, Columbia University, New York**
   + 2. **Department of Biostatistics, University of North Carolina, Chapel Hill, North Carolina**
   
-- Manuscript: Xie S, Zeng D and Wang Y (2020). Integrative Network Learning for Multi-modaility Biomarker Data. Annals of Applied Statistics. In press  
+- Manuscript: Xie S, Zeng D and Wang Y (2021). Integrative Network Learning for Multi-modaility Biomarker Data. Annals of Applied Statistics 15(1), 64-87. [[paper](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/INL_AOAS_2021.pdf)]
   
 
 <p align="center">
