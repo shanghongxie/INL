@@ -58,5 +58,5 @@ The code for the proposed methodology is included in **Code** folder. Please dow
 
 ### Examples
 
-**Viegette.R** provides an example to implement the methods using the simulated data.
+**Viegnette.R** provides an example to implement the methods using the simulated data.
 
