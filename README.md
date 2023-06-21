@@ -28,6 +28,35 @@ The biomarker networks measured by different modalities of data (e.g., structura
 
 ## Code Instructions
 
+The code for the proposed methodology is included in **Code** folder. Please download all the files in the folder to implement the method.
 
+### To implement the proposed method with approximated posterior expectation of latent variables, source the following R files
+  
+  sourceCpp('~/INLApproxC.cpp')
+  
+  source('~/INLApproxRcode.R')
+  
+  source('~/INLApproxHardThrRcode.R')
+  
+### To implement the proposed method with exact calculation of posterior expectation of latent variables, source the following R files
+  
+  sourceCpp('~/INLDirectC.cpp')
+  
+  source('~/INLDirectRcode.R')
+  
+  source('~/INLDirectHardThrRcode.R')
 
+### Main functions
+
+- **INLApproxRcode**: estimate network without pruning, the posterior expectations of latent variables are calculated by the approximated approach. It requires sourceCpp('~/INLApproxC.cpp').
+  
+- **INLApproxHardThrRcode.R**: hard thresholding the estimated network from INLApproxRcode output based on EBIC.
+  
+- **INLDirectRcode.R**: estimate network without pruning, the posterior expectations of latent variables are calculated by direct calculation. It requires sourceCpp('~/INLDirectC.cpp').
+  
+- **INLDirectHardThrRcode.R**: hard thresholding the estimated network from INLDirectRcode output based on EBIC.
+
+### Examples
+
+**Viegette.R** provides an example to implement the methods using the simulated data.
 
