@@ -30,7 +30,7 @@ The biomarker networks measured by different modalities of data (e.g., structura
 
 The code for the proposed methodology is included in **Code** folder. Please download all the files in the folder to implement the method.
 
-### To implement the proposed method with approximated posterior expectation of latent variables, source the following R files
+### To implement the proposed method with approximated posterior expectation of latent variables, source the following files
   
   sourceCpp('~/INLApproxC.cpp')
   
@@ -38,7 +38,7 @@ The code for the proposed methodology is included in **Code** folder. Please dow
   
   source('~/INLApproxHardThrRcode.R')
   
-### To implement the proposed method with exact calculation of posterior expectation of latent variables, source the following R files
+### To implement the proposed method with exact calculation of posterior expectation of latent variables, source the following files
   
   sourceCpp('~/INLDirectC.cpp')
   
